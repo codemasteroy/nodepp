@@ -8,3 +8,6 @@ RUN npm install
 
 WORKDIR /opt/project/node-epp
 COPY . /opt/project/node-epp
+
+ENTRYPOINT ["npm"]
+CMD ["test"]
