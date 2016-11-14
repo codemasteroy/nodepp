@@ -1,7 +1,8 @@
 node_modules
-config/epp-config.json
+config/epp-config*.json
 *.log
 *.pem
 *.pem.asc
 *.key
+*.crt
 *.key.asc
