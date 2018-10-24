@@ -32,8 +32,7 @@
     "node-expat": "*",
     "q": "*",
     "xml2json": "*",
-    "winston": "*",
-    "crypto": "*"
+    "winston": "*"
   },
   "devDependencies": {
     "chai": "*",
